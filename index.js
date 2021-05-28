@@ -1,4 +1,4 @@
-/* [ [ [ [ ]  ] ] ] ], multi dimensional Arrays, has more level of storage, Array has been stored in another Array */
+/* [ [ [ [ ]  ] ] ] ], multi dimensional Arrays, has more levels for storage, Array has been stored in another Array */
 
 
 let myArray = [["value1", "value2", "value3"], ["value4", "value5", "value6"]];
