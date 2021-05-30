@@ -8,9 +8,7 @@ let myArray = [["value1", "value2", "value3"], ["value4", "value5", "value6"]];
 /* each sub array has three values, if we want to select items in the subArrays, then we need to add 1 more set of brackets with an index as shown in the example below */
 
 console.log(myArray[0]);
+console.log(myArray[1]);
 
-let twoDimensionalArray = [["a", "b", "c"], ["d", "e", "f"], ["g", "h", "i"]];
 
-console.log(twoDimensionalArray);
-console.log(twoDimensionalArray[0][2]);
 
